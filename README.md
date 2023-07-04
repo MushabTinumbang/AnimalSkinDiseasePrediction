@@ -25,9 +25,3 @@ To replicate the steps and use the model for your own research or applications, 
 * **Inference:** Use the trained model to make predictions on new animal skin images. Preprocess the images as required (e.g., resizing, normalization) and pass them through the model for disease detection.
 
 For detailed instructions and code snippets, please refer to the documentation provided in the repository.
-
-## Contributions
-Contributions to this project are welcome. If you would like to make any enhancements, fix issues, or add new features to the model, please follow the standard GitHub workflow for pull requests.
-
-## License
-This project is licensed under the MIT License.
